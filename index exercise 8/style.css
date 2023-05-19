@@ -1,0 +1,10 @@
+.marker {
+    width: 20px;
+    height: 20px;
+    background-color: #fea500;
+    margin-bottom: 10px;
+}
+
+.marker:last-child {
+    background-color: #808080;
+}
